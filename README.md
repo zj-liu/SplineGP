@@ -1,3 +1,3 @@
 # SplineGP
 SplineBasisGP
-Gaussian Process fitting
+Gaussian Process
